@@ -6,7 +6,7 @@ cuid: cletrxros000708l06epo8i2a
 slug: project-setup-hello-world-app-angular
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1677922238764/a9a1b436-90c8-49e2-b303-51e16e87ab14.jpeg
 ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1677922783044/06b33f0c-f398-4a04-87b8-3e049d8dd1bf.jpeg
-tags: angularjs, nodejs, setup, hello-world
+tags: angularjs, nodejs, setup, hello-world, devsintechblogs
 
 ---
 
@@ -110,6 +110,8 @@ Now, if we open the browser, it would display as,
 
 *Hurrah! We have created our first Angular app!*
 
-*Let's understand how Angular actually works and other interesting stuff in the upcoming articles. Stay tuned!*
+And that's a wrap-up. I hope you have learned something from this blog. If it's helpful to you and your front-end development journey then do like, follow me on [Hashnode](https://hashnode.com/@rakshaa) and [Twitter](https://twitter.com/TheRakshaa) and do subscribe to my [Hashnode newsletter](https://rakshaa.hashnode.dev/newsletter) so that you don't miss any future posts. Thanks for reading and have a great day!
+
+*Stay tuned for the upcoming articles in this series!*
 
 ---
