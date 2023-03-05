@@ -12,7 +12,7 @@ tags: angularjs, typescript, frontend-development, devsintechblogs
 
 Welcome to the third article in the series - **"A beginner's guide to understanding Angular"**. You can read the previous articles on this series from this [*link*](https://rakshaa.hashnode.dev/series/beginner-angular)*.*
 
-### Explaining the `app` module -
+### Explaining the `app` module
 
 Even though you displayed **"Hello, World!"** by now on your screen, most probably you would not have been able to understand how this happened, right?
 
