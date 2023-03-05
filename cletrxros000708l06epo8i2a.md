@@ -1,6 +1,6 @@
 ---
 title: "Project Setup & "Hello, World!" app - Angular"
-seoTitle: "Angular project setup, Hello world in angular"
+seoTitle: "Angular project setup, Hello world in Angular"
 datePublished: Sat Mar 04 2023 09:40:42 GMT+0000 (Coordinated Universal Time)
 cuid: cletrxros000708l06epo8i2a
 slug: project-setup-hello-world-app-angular
