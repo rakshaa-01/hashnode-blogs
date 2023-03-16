@@ -144,7 +144,7 @@ The browser output will be,
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1678880110559/ea7c0f79-866b-4e0b-a71e-090b7fea16e5.gif align="center")
 
-*(****ngStyle*** *is enclosed within* `[` *and* `]` *which indicates that it is an attribute directive)*
+\*(\****ngStyle*** *is enclosed within* `[` *and* `]` *which indicates that it is an attribute directive)*
 
 ### **ngClass:**
 
@@ -174,7 +174,7 @@ If we inspect the code in the browser, we observe that we add a class called 'ye
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1678889948575/20560db5-2dc3-409a-b338-a412fa651a97.gif align="center")
 
-*(****ngClass*** *is enclosed within* `[` *and* `]` *which indicates that it is an attribute directive)*
+\*(\****ngClass*** *is enclosed within* `[` *and* `]` *which indicates that it is an attribute directive)*
 
 ### **ngModel & ngFor:**
 
@@ -246,19 +246,16 @@ So we have pretty much come to the end of this series – **“A beginner’s gu
 
 We next saw what Angular Components are and saw how to [create a new component](https://rakshaa.hashnode.dev/angular-components#heading-1-creating-components). We saw how [components work as various kinds of selectors](https://rakshaa.hashnode.dev/angular-components#heading-2-components-as-selectors) and saw an example of components as class selectors. We then explored a new concept in Angular named [Data Binding](https://rakshaa.hashnode.dev/data-binding-string-interpolation-property-binding) and understood its two types namely String Interpolation and Property Binding. We next saw what is meant by Event Binding and saw the example of [‘click’ event](https://rakshaa.hashnode.dev/event-binding-one-way-two-way-binding#heading-1-click-event). We understood that two-way binding which is a combination of property binding and event binding with the help of [ngModel directive](https://rakshaa.hashnode.dev/event-binding-one-way-two-way-binding#heading-2-ngmodel-directive). We learned how to import a new module named FormsModule for using ngModel in our Angular application. We also differentiated one-way binding from two-way binding by taking an example.
 
-And, finally, in this article, we understood what directives are and discussed their two popular types namely, attribute directives and structural directives. We briefly discussed ngIf and ngFor as examples of structural directives and saw ngStyle, ngModel and ngClass as examples of attribute directives. We inspected the code written using the console to better understand what was happening to the code we had written.
+And, finally, in this article, we understood [what directives are](https://rakshaa.hashnode.dev/directives-in-angular#heading-directives) and discussed their two popular types namely, attribute directives and structural directives. We briefly discussed ngIf and ngFor as examples of structural directives and saw ngStyle, ngModel and ngClass as examples of attribute directives. We inspected the code written using the console to better understand what was happening to the code we had written.
 
 One of the **main advantages** of using the Angular framework is that the framework is based on components. These components are small interface elements independent of each other and offer several benefits like,
 
 * **Reusability:** The component-based structure of Angular makes the components highly reusable across the application.
     
-
 * **Simplified Unit-Testing:** Being independent of each other, the components make unit testing much easier too.
     
-
 * **Improved Readability:** Consistency in coding makes reading the code much easier for developers which adds to their productivity and overall efficiency of the project.
     
-
 * **Ease of Maintenance:** Decoupled components are replaceable with better implementations in the future which enables efficient code maintenance and update.
     
 
