@@ -41,7 +41,7 @@ Just like how an "I-shaped" developer's skillset looked in the shape of an "I", 
 
 A T-shaped developer has a **broad knowledge** in other areas of expertise besides having a **deep** area of expertise in their field. For example, a web developer knows how to efficiently perform front-end development tasks and in addition to that, they have sufficient knowledge of the jobs of an analyst, programmer, test engineer and Systems Engineer. Their purview of knowledge also expands to writing basic requirements for the project, creating unit tests, performing basic DevOps operations etc as shown below,
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1679150545852/52cca561-ec5e-465c-8f66-c7a976fb50a3.png align="center")
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1679150545852/52cca561-ec5e-465c-8f66-c7a976fb50a3.png align="right")
 
 Thus the depth of the developer's skills lies as a web designer and the breadth of their skill ranges across everything that they need to know to perform the job assigned. Since the shape of the developer's skills resembles a "T", they are called as T-shaped developers.
 
