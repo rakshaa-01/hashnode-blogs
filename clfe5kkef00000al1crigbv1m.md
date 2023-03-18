@@ -47,7 +47,7 @@ Thus the depth of the developer's skills lies as a web designer and the breadth 
 
 ### Why do companies prefer T-shaped developers?
 
-* **They can help everywhere**: A T-Shaped developer can contribute to every part of a project. They are very useful in [agile teams](https://www.agilealliance.org/glossary/team/#q=~(infinite~false~filters~(postType~(~'page~'post~'aa_book~'aa_event_session~'aa_experience_report~'aa_glossary~'aa_research_paper~'aa_video)~tags~(~'team))~searchTerm~'~sort~false~sortDirection~'asc~page~1)) which manage the project as a whole.
+* **They can help everywhere**: A T-Shaped developer can contribute to every part of a project. They are very useful in agile teams which manage the project as a whole.
     
 * **They better understand other developers**: Since T-shaped developers have a broad skill set, they know the basics of each area and can interact better with other developers. They know how to ask what they want, understand the difficulty of their tasks and know what to expect from them.
     
