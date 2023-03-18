@@ -4,8 +4,8 @@ seoTitle: "Why being a 'T shaped Developer' is better for your development caree
 datePublished: Sat Mar 18 2023 15:57:45 GMT+0000 (Coordinated Universal Time)
 cuid: clfe5kkef00000al1crigbv1m
 slug: why-being-a-t-shaped-developer-is-better-for-your-development-career
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1679154209466/ca770184-2837-4c1a-a86a-c4d1c51bee66.jpeg
-ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1679154905181/1e2c5b88-37e7-4557-a8f1-087b7f88557c.jpeg
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1679155638469/0a94599d-e9e2-4764-b642-19a5126448a4.jpeg
+ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1679155668243/adb2849f-7ef0-483d-9259-e1664f5aceff.jpeg
 tags: development, frontend-development, 2articles1week, devsintechblogs
 
 ---
