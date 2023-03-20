@@ -29,7 +29,7 @@ The major domain of jobs available in an organization can be broadly categorized
 
 We might have heard from various sources that any organization prefers employees who are well-versed in their assigned job and exhibit good productivity in their domain of job. This was (and sometimes is) applicable to tech jobs as well. Developers who are specialists in their specific areas of expertise are generally preferred by organizations. Their areas of expertise may comprise a wide variety of skills but the job they perform may fall into **one of the five categories** described above.
 
-These types of developers are called as "I-shaped" developers. They are called so as their skill sets look in the shape of the letter I. For eg, a front-end developer (or) a web designer has a list of skills like UI-UX Design, knowledge of HTML, CSS, JavaScript and design of images, icons, logo, templates etc. These skills look in the shape of "I" as shown below.
+These types of developers are called I-shaped developers. They are called so as their skill sets look in the shape of the letter I. For eg, a front-end developer (or) a web designer has a list of skills like UI-UX Design, knowledge of HTML, CSS, JavaScript and design of images, icons, logos, templates etc. These skills look in the shape of **"I"** as shown below.
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1679148427362/44188854-1e47-4600-8772-3b7a1c22f8fa.png align="center")
 
@@ -66,6 +66,6 @@ If you are a beginner, start by choosing an area of expertise first. If you are 
 
 Being a T-Shaped developer is important because you can communicate better with your teammates, understand their needs and how they work, and how you can help each other. This process takes time and curiously learning things outside of your domain can help you in becoming an important part of the organization you work for.
 
-You also become **a well-rounded developer who understands every part of the process of a project**.
+> You also become **a well-rounded developer who understands every part of the process of a project**.
 
 And that's a wrap-up. I hope you have learned something from this blog. If it's helpful to you and your front-end development journey then do like, follow me on [Hashnode](https://hashnode.com/@rakshaa) and [Twitter](https://twitter.com/TheRakshaa) and do subscribe to my [Hashnode newsletter](https://rakshaa.hashnode.dev/newsletter) so that you don't miss any future posts. Thanks for reading and have a great day!
