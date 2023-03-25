@@ -10,7 +10,7 @@ tags: design-thinking, 2articles1week
 
 ---
 
-Welcome to the first article in the series - **"Design thinking"**. You can read the previous articles on this series from this [*link*](https://rakshaa.hashnode.dev/series/beginner-angular)*.*
+Welcome to the first article in the series - **"Design thinking"**. You can follow the articles on this series from this [*link*](https://rakshaa.hashnode.dev/series/design-thinking)*.*
 
 We have heard that design thinking is important to everyone from students to innovators. But why is this so?
 
@@ -39,4 +39,4 @@ Design thinking is a versatile idea that has diverse applications starting from 
 
 In this series of articles on design thinking, let us dwell deeper into the steps involved in design thinking, understand its process model and look at different case studies that help us to better relate to this idea!
 
-And that's a wrap-up. I hope you have learned something from this blog. If it's helpful to you and your front-end development journey then do like, follow me on [Hashnode](https://hashnode.com/@rakshaa) and [Twitter](https://twitter.com/TheRakshaa) and do subscribe to my [Hashnode newsletter](https://rakshaa.hashnode.dev/newsletter) so that you don't miss any future posts. Thanks for reading and have a great day!
+And that's a wrap-up. I hope you have learned something from this blog. If it's helpful to you then do like, follow me on [Hashnode](https://hashnode.com/@rakshaa) and [Twitter](https://twitter.com/TheRakshaa) and do subscribe to my [Hashnode newsletter](https://rakshaa.hashnode.dev/newsletter) so that you don't miss any future posts. Thanks for reading and have a great day!
