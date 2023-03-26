@@ -58,7 +58,7 @@ One can ask the following questions to empathize with the feelings of others,
 
 In this stage, multiple ideas are generated for the problem statement. The following techniques are commonly used for generating ideas,
 
-> > **Mind Mapping, Brainstorming, Inquiry etc**
+> **Mind Mapping, Brainstorming, Inquiry etc**
 
 ![Stage 3 in the Design Thinking Process: Ideate | IxDF](https://public-images.interaction-design.org/literature/articles/heros/5808caa7ec64d.jpg align="left")
 
