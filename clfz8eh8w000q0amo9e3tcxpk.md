@@ -5,7 +5,7 @@ datePublished: Sun Apr 02 2023 10:00:09 GMT+0000 (Coordinated Universal Time)
 cuid: clfz8eh8w000q0amo9e3tcxpk
 slug: applying-design-thinking-to-software-development-a-beginners-guide
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1680429060543/8d98caf1-00af-413d-bc39-44348616b461.jpeg
-ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1680429495178/b267b9cf-1122-4444-8d27-a64729a4c2bd.jpeg
+ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1680530600861/f7bc7341-a23c-40c2-9c0b-bad1214bd1ba.jpeg
 tags: design-thinking, 2articles1week
 
 ---
